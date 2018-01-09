@@ -10,7 +10,7 @@ description: |
 You'll need to sleep and we find hotels are a decent place to do that.  In fact the first episode of our upcoming ebook-podcast-motivational speaking tour is titled *"Hotels: you can sleep in them"* so get pumped for that.
 
 
-### <i class="fa fa-shower" aria-hidden="true"></i> AirBnB
+### <i class="fa fa-shower" aria-hidden="true"></i> Alex loves Hotels
 Hotels in Palm Springs are pretty cool.
 
 
@@ -20,10 +20,10 @@ Hotels in Palm Springs are pretty cool.
 We've reserved two hotel blocks for our guests. Both hotels are conveniently located at or near nuptial ground zero.
 
 #### Avalon
-scroll up
+* scroll up
 
 #### Rowan   
-scroll up a tiny bit less
+* scroll up a tiny bit less
 
 
 Here are some other excellent hotel options that don't have a group rate:    
