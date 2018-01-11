@@ -1,13 +1,13 @@
 ---
 layout: default
-img: fuckoff.jpg
+img: AlexIsTyred.jpg
 category: Services
 title: Accommodations
 description: |
 ---
 
 
-You'll need to sleep and we find hotels are a decent place to do that.  In fact the first episode of our upcoming ebook-podcast-motivational speaking tour is titled *"Hotels: you can sleep in them"* so get pumped for that.
+You'll need to sleep and we find hotels are a decent, some say awesome place to do that.  In fact the first episode of our upcoming ebook-podcast-motivational speaking tour is titled *"Hotels: you can sleep in them"* so get pumped for that.
 
 
 ### <i class="fa fa-shower" aria-hidden="true"></i> Alex loves Hotels
@@ -19,7 +19,7 @@ Hotels in Palm Springs are pretty cool.
 ### <i class="fa fa-bed" aria-hidden="true"></i> Hotels
 We've reserved two hotel blocks for our guests. Both hotels are conveniently located at or near nuptial ground zero.
 
-#### Avalon
+### <i class="glyphicon glyphicon-lamp" aria-hidden="true"></i> Avalon
 * scroll up
 
 #### Rowan   
