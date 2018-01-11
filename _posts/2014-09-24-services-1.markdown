@@ -1,6 +1,8 @@
 ---
 layout: default
+twoImages: True
 img: steps.jpg
+img2: degaul.jpg
 category: Services
 title:  <i ></i>
 description:

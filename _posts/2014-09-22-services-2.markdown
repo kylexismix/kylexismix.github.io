@@ -1,5 +1,6 @@
 ---
 layout: default
+twoImages: False
 img: AlexIsTyred.jpg
 category: Services
 title: Accommodations

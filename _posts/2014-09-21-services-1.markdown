@@ -1,5 +1,6 @@
 ---
 layout: default
+twoImages: False
 img: rock.jpg
 category: Services
 title: Location and schedule
