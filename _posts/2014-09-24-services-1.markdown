@@ -2,6 +2,6 @@
 layout: default
 img: steps.jpg
 category: Services
-title:  \U0020
+title:  <i class="fa fa-camera-retro fa-lg"></i> fa-lg
 description:
 ---
