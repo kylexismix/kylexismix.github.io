@@ -2,7 +2,7 @@
 layout: default
 twoImages: F
 img: rock.jpg
-category: Friday
+category: friday
 title: Friday
 description: |
 ---

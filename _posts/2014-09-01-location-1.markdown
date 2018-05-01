@@ -2,7 +2,7 @@
 layout: default
 twoImages: F
 img: rock.jpg
-category: Location
+category: location
 title: Location
 description: |
 ---
