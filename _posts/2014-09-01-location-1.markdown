@@ -1,7 +1,7 @@
 ---
 layout: default
 twoImages: F
-img: rock.jpg
+img: aspen.jpg
 category: location
 title: Location
 description: |
