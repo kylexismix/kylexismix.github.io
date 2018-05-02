@@ -2,7 +2,7 @@
 layout: default
 twoImages: F
 img: AlexIsTyred.jpg
-category: Services
+category: accommodations
 title: Accommodations
 description: |
 ---

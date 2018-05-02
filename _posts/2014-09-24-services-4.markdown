@@ -2,7 +2,7 @@
 layout: default
 twoImages: T
 img: steps.jpg
-img2: degaul.jpg
+img2: mirrors.jpg
 category: Services
 title:  <i ></i>
 description:
