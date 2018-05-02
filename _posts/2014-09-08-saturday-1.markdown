@@ -1,7 +1,7 @@
 ---
 layout: default
 twoImages: F
-img: gma_bday.jpg
+img: bookcase.jpg
 category: saturday
 title: Saturday
 description: |
