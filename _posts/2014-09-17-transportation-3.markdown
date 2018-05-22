@@ -3,7 +3,7 @@ layout: default
 twoImages: F
 img: fireplace.jpg
 category: transportation
-title: 
+title:   
 description: |
 ---
 
