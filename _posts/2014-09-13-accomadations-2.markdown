@@ -8,14 +8,10 @@ description: |
 ---
 
 
-You'll need to sleep and we find hotels are a decent, some say awesome place to do that.  In fact the first episode of our upcoming ebook-podcast-motivational speaking tour is titled *"Hotels: you can sleep in them"* so get pumped for that.
+You'll need to sleep and we find hotels are a decent, some say awesome place to do that.  In fact the first episode of our upcoming ebook-podcast-motivational speaking tour is titled *"Hotels: you can sleep in them"* so get pumped for that.  
 
-
-### <i class="fa fa-shower" aria-hidden="true"></i> Alex loves Hotels
-Hotels in Palm Springs tend to be pretty cool.
-
-### <i class="fa fa-bed" aria-hidden="true"></i> Hotels
-We've reserved two hotel blocks for our guests. Both hotels are conveniently located at or near nuptial ground zero.
+### <i class="fa fa-bed" aria-hidden="true"></i> Alex loves Hotels
+Hotels in Palm Springs tend to be pretty cool. We've reserved two hotel blocks for our guests. Both hotels are conveniently located at or near nuptial ground zero.
 
 ### Rowan   
 You'll love this place, you can find our block [here](https://www.ihg.com/kimptonhotels/hotels/us/en/rowan-palm-springs-hotel-ca/pspnp/hoteldetail?qAdlt=1&qBrs=6c.hi.ex.rs.ic.cp.in.sb.cw.cv.ul.vn.ki.va.sp.nd.ct&qChld=0&qFRA=1&qGRM=0&qGrpCd=BM5&qIta=99801505&qPSt=0&qRRSrt=rt&qRef=df&qRms=1&qRpn=1&qRpp=20&qSHp=1&qSmP=3&qSrt=sBR&qWch=0&srb_u=1&icdv=99801505&setPMCookies=true).  
