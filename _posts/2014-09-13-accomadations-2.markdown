@@ -17,10 +17,10 @@ Hotels in Palm Springs tend to be pretty cool.
 ### <i class="fa fa-bed" aria-hidden="true"></i> Hotels
 We've reserved two hotel blocks for our guests. Both hotels are conveniently located at or near nuptial ground zero.
 
-#### Rowan   
+### Rowan   
 You'll love this place, you can find our block [here](https://www.ihg.com/kimptonhotels/hotels/us/en/rowan-palm-springs-hotel-ca/pspnp/hoteldetail?qAdlt=1&qBrs=6c.hi.ex.rs.ic.cp.in.sb.cw.cv.ul.vn.ki.va.sp.nd.ct&qChld=0&qFRA=1&qGRM=0&qGrpCd=BM5&qIta=99801505&qPSt=0&qRRSrt=rt&qRef=df&qRms=1&qRpn=1&qRpp=20&qSHp=1&qSmP=3&qSrt=sBR&qWch=0&srb_u=1&icdv=99801505&setPMCookies=true).  
 
-#### Avalon
+### Avalon
 Our room block can be accessed [here](https://gc.synxis.com/rez.aspx?Hotel=1921&Chain=5154&arrive=9/14/2018&depart=9/16/2018&adult=1&child=0&group=180914BEAC).
 
 Here are some other hotel options that don't have a group rate:    
