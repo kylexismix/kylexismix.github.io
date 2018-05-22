@@ -11,7 +11,7 @@ description: |
 You'll need to get to Palm Springs.   
 
 
-I knowIknowIknowIknow you're thinking "well those two are pretty ok, but sweet jayzus that's a long way from ev-er-y-thang!"  You are not wrong, it is, after all, the desert, and I will admit, I was once in your camp.  **HOWEVER** you will be amazed at the extreme levels of unadulterated awesome that exists in this gem of a small city.  Not to mention... us, and our pretty ok'edness.  Here's some tips:
+I knowIknowIknowIknow It's a long way  **HOWEVER** you will be amazed at the extreme levels of unadulterated awesome that exists in this gem of a small city.  Not to mention... us!  Here's some tips:
 
 ### Airports
 **Palm Springs International (PSP)** This is a great option if you can get a direct flight. It is a smaller airport, but it puts you about a 5 minute Lyft from the downtown hotels.  
