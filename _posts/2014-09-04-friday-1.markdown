@@ -3,7 +3,7 @@ layout: default
 twoImages: F
 img: rock.jpg
 category: friday
-title: Friday - Saturday Morning
+title: Friday + Saturday Morning
 description: |
 ---
 
